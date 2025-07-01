@@ -1,7 +1,8 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/girl-is-working-laptop-with-plant-background_786227-27.jpg" alt="Girl Working on Laptop" width="40%" />
+  <img src="https://img.freepik.com/premium-vector/girl-is-working-laptop-with-plant-background_786227-27.jpg" alt="Girl Working on Laptop" width="250px" />
 </div>
+
 
 🎓Data Analyst on the grind + currently pursuing a data science degree @ FAST NUCES (3rd year/junior)<br>👯 I'm looking to collaborate on Python-based data analysis projects and real-world data science applications<br>🤝 I'm looking for help with advanced Python libraries, statistical concepts, and transitioning from student to data professional<br>🌱 I'm currently learning core data science concepts, practical data analysis techniques, and Python programming for data manipulation<br>💬 Ask me about my Data Science journey at FAST University, Python programming, and balancing academic studies with practical skills<br>⚡ Fun fact I'm Zoha, building my data science expertise in Pakistan's growing tech ecosystem!
 
