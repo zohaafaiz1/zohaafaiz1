@@ -1,10 +1,10 @@
-# 💫 About Me:
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/girl-is-working-laptop-with-plant-background_786227-27.jpg" alt="Girl Working on Laptop" width="250px" />
-</div>
+## About Me
 
+I am a Data Science undergraduate at FAST NUCES with a strong interest in data analytics, data warehousing, and business intelligence. I focus on building end-to-end data projects that involve data extraction, transformation, modeling, performance optimization, and analytical reporting.
 
-🎓Data Analyst on the grind + currently pursuing a data science degree @ FAST NUCES (3rd year/junior)<br>👯 I'm looking to collaborate on Python-based data analysis projects and real-world data science applications<br>🤝 I'm looking for help with advanced Python libraries, statistical concepts, and transitioning from student to data professional<br>🌱 I'm currently learning core data science concepts, practical data analysis techniques, and Python programming for data manipulation<br>💬 Ask me about my Data Science journey at FAST University, Python programming, and balancing academic studies with practical skills<br>⚡ Fun fact I'm Zoha, building my data science expertise in Pakistan's growing tech ecosystem!
+I have hands-on experience with Python, SQL, PostgreSQL, and Power BI, and I enjoy working on practical problems where data can be used to drive insights and decisions. Alongside my academic coursework, I continuously work on strengthening my technical foundations through real-world projects.
+
+I am open to collaborating on data analysis, BI, and data engineering–oriented projects, and I am actively working toward becoming an industry-ready data professional.
 
 
 ## 🌐 Socials:
