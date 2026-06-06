@@ -43,5 +43,3 @@ All-in-one study tool (to-do, timetable, Pomodoro, notes) built in C# WinForms w
 
 ---
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaafaiz1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaafaiz1&theme=tokyonight&hide_border=true&layout=compact)
